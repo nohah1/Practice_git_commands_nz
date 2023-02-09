@@ -6,3 +6,4 @@ git push
 git reset HEAD <file-name>
 git show HEAD
 git reset commit_SHA
+test
